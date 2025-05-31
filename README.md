@@ -3,4 +3,6 @@ experimental comparison of the performance of different approaches to the binary
 
 The used benchmark: https://github.com/Danial-Yazdani/GNBG_Instances.Python
 
-To change representation: selected_representation = 'representation' options for representation are fixed-point, ieee754, gray, real-value
+To change representation: selected_representation = 'representation'
+options for representation are fixed-point, ieee754, gray, real-value
+
